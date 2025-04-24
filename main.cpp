@@ -1,6 +1,6 @@
 #include <iostream>
 
-//В этом репозитарии идет работа с самим репозитарием
+//This is test ghjject
 int main() {
     std::cout << "Hello, Git!" << std::endl;
 }
