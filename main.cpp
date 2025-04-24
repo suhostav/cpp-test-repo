@@ -1,6 +1,6 @@
 #include <iostream>
+#include "calculator.h"
 
-//This is test project
 int main() {
-    std::cout << "Hello, Git!jadfgasdkgvj;l" << std::endl;
+    RunCalculatorCycle();
 }
