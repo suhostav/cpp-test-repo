@@ -1,3 +1,8 @@
 cmake_minimum_required(VERSION 3.20)
 set(CMAKE_CXX_STANDARD 23)
-add_executable(main main.cpp calculator.h calculator.cpp geom.h geom.cpp)
+add_executable(main main.cpp 
+    calculator.h calculator.cpp 
+    geom.h geom.cpp 
+    rational.h rational.cpp
+    tv.h tv.cpp
+    tv_control.h tv_control.cpp)
